@@ -12,8 +12,14 @@ Perl Gene_Pfam.pl POLD1 POLD1_domain.txt
 |DNA_pol_B    |   DNA polymerase family B | 535    |  973 |
 | zf-C4pol    |    C4-type zinc-finger of DNA polymerase delta |    1012  |  1082 |
 
-	|Mutation|Probability|
-	|--|--|
-	|Y540S|0.965|
-	|R431V|0.943|
+Mutation|Probability
+-|-
+Y540S|0.965
+R431V|0.943
+K329A|0.817
+D285W|0.765
+Y552F|0.751
+D370L|0.719
+Y437F|0.628
+R556M|0.468
 	
